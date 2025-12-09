@@ -1,0 +1,23 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Will You Be My Forever?</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Links to optional CSS file -->
+</head>
+<body>
+    <div class="container">
+        <h1>Dear [charu🫶🏻],</h1>
+        <p>From the moment I met you, my world changed. You've brought so much joy, laughter, and love into my life. I can't imagine a future without you by my side.</p>
+        <p>So, [Charuu], will you make me the happiest person alive and say yes to being my partner forever?</p>
+        <img src="your-photo.jpg" alt="A photo of us" style="max-width: 100%; height: auto;"> <!-- Replace with your image -->
+        <div class="buttons">
+            <button onclick="alert('Yes! I love you!')">Yes!</button>
+            <button onclick="alert('No? Let me try again...')">No (but maybe?)</button>
+        </div>
+        <p>With all my love,<br>[ kashish]</p>
+    </div>
+</body>
+</html>
